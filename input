@@ -1,0 +1,8 @@
+structure			AUC1_A
+ligando             LG1
+residuos			259 59 61 62 64 89 91 93 118 127 131 137 194 195 196 197 198 258 139 4 2 203 92 205 103 240 116 200
+optmethod			PM7
+g09method			PBE1PBE/6-31G(d)
+charge				1
+multiS				0
+nprocs				4
